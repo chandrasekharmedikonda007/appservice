@@ -67,3 +67,4 @@ No resources.
 ## Related documentation
 
 Azure regions: [azure.microsoft.com/en-us/global-infrastructure/regions/](https://azure.microsoft.com/en-us/global-infrastructure/regions/)
+Azure
